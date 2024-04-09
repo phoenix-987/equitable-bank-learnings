@@ -1,7 +1,7 @@
 import fire
 
 def hello(name='Jake'):
-    return f'Hi bro {name}. How you doin?'
+    return f'Good Afternoon {name}, How are you?'
 
 if __name__ == '__main__':
     fire.Fire(hello)
